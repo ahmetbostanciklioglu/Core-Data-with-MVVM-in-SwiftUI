@@ -19,7 +19,7 @@ struct CoreDataView: View {
                     .font(.headline)
                     .padding(.leading)
                     .frame(height: 55)
-                    .background(Color(.lightGray))
+                    .background(Color(.systemGray6))
                     .clipShape(.rect(cornerRadius: 10))
                     .padding(.horizontal)
                 Button {
