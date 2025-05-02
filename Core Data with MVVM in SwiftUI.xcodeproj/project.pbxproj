@@ -6,15 +6,8 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		54B444AA2DC4F7DF00A41532 /* FruitEntity+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B444A82DC4F7DF00A41532 /* FruitEntity+CoreDataClass.swift */; };
-		54B444AB2DC4F7DF00A41532 /* FruitEntity+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B444A92DC4F7DF00A41532 /* FruitEntity+CoreDataProperties.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		54B4448F2DC4EA3900A41532 /* Core Data with MVVM in SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Core Data with MVVM in SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		54B444A82DC4F7DF00A41532 /* FruitEntity+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FruitEntity+CoreDataClass.swift"; sourceTree = "<group>"; };
-		54B444A92DC4F7DF00A41532 /* FruitEntity+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FruitEntity+CoreDataProperties.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -39,8 +32,6 @@
 		54B444862DC4EA3900A41532 = {
 			isa = PBXGroup;
 			children = (
-				54B444A82DC4F7DF00A41532 /* FruitEntity+CoreDataClass.swift */,
-				54B444A92DC4F7DF00A41532 /* FruitEntity+CoreDataProperties.swift */,
 				54B444912DC4EA3900A41532 /* Core Data with MVVM in SwiftUI */,
 				54B444902DC4EA3900A41532 /* Products */,
 			);
@@ -128,8 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54B444AA2DC4F7DF00A41532 /* FruitEntity+CoreDataClass.swift in Sources */,
-				54B444AB2DC4F7DF00A41532 /* FruitEntity+CoreDataProperties.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
